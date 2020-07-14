@@ -1,0 +1,6 @@
+framework module Pods_RNDMBGD {
+  umbrella header "Pods-RNDMBGD-umbrella.h"
+
+  export *
+  module * { export * }
+}
